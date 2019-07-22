@@ -1,0 +1,21 @@
+body {
+  background-color: #071a2c;
+}
+
+#story1-page {
+  font-family: "Chivo", sans-serif;
+  background-color: #071a2c;
+  color: white;
+}
+
+#viewfromspaceship {
+  background-image: url("/images/spaceship-view.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  align-items: center;
+  height: 60vh;
+  width: 100%;
+}
+
+/*# sourceMappingURL=first-page.css.map */
